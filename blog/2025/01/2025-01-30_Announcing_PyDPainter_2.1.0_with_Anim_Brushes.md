@@ -1,6 +1,6 @@
 # Announcing PyDPainter 2.1.0 with Anim Brushes
 
-[January 21, 2025](https://pydpainter.org/blog/2025/01/2025-01-30_Announcing_PyDPainter_2.1.0_with_Anim_Brushes.md "permanent link")
+[January 30, 2025](https://pydpainter.org/blog/2025/01/2025-01-30_Announcing_PyDPainter_2.1.0_with_Anim_Brushes.md "permanent link")
 
 PyDPainter's 2.1.0 update introduces **anim brushes** (animated brushes) that
 work with animations and **sprite sheets** in addition to many other
@@ -10,12 +10,12 @@ improvements.
 
 ## New Features:
 
-- **Animbrushes (animated brushes):**
+- **Anim brushes (animated brushes):**
   - Load/save IFF ANIM (ANBR) and GIF anim brushes
   - Paint with anim brushes on a single frame or in an animation
   - Grab anim brushes from animation frames
   - Grab anim brushes from sprite sheets using an adaptive flex grid with a visual editor
-  - Animbrush settings for animation playback (forward/backward/ping-pong/random), duration control, and frame selection.
+  - Anim brush settings for animation playback (forward/backward/ping-pong/random), duration control, and frame selection.
 - **Improved Grid:**
   - Added number spinners
   - "From Brush" button automatically sizes the grid
