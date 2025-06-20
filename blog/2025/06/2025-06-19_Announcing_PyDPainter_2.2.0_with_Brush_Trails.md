@@ -1,6 +1,6 @@
 # Announcing PyDPainter 2.2.0 with Brush Trails
 
-[June 19, 2025](https://pydpainter.org/blog/2025/06/2025-06-19_Announcing_PyDPainter_2.1.0_with_Brush_Trails.md "permanent link")
+[June 19, 2025](https://pydpainter.org/blog/2025/06/2025-06-19_Announcing_PyDPainter_2.2.0_with_Brush_Trails.md "permanent link")
 
 PyDPainter version 2.2.0 is now out! This update adds Brush Trails along with some other improvements.
 
